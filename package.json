@@ -2,7 +2,7 @@
   "name": "react-hooks-sorting",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/solarstar101/React-Sorting-Algorithm-Visualizer/tree/master/src",
+  "homepage": "https://laughing-feynman-96fb8b.netlify.com/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
@@ -16,9 +16,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
