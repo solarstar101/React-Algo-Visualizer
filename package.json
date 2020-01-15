@@ -2,7 +2,7 @@
   "name": "react-hooks-sorting",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/solarstar101/React-Sorting-Algorithm-Visualizer",
+  "homepage": "https://github.com/solarstar101/React-Sorting-Algorithm-Visualizer/tree/master/src",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
