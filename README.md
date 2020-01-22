@@ -2,7 +2,6 @@
 
 Sorting algorithms visualization using react
 
-![Insertion Sort in action](https://media.giphy.com/media/U246I0ACAtgYA3sz0G/giph.gif)
 
 ## Getting Started
 
