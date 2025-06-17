@@ -11,23 +11,14 @@ const ContactTab = () => {
       <Text expandedText>
         Feel free to reach out to me if you have ay questions or would like to
         contribute. I completed this project in 2018 with my friend as a
-        challenge for us to do :)
-  
-      updated in 2019 to use hooks
+        challenge for us to do updated in 2019 to use hooks
       </Text>
       <a
         target="_blank"
         rel="noopener noreferrer"
-        href="https://github.com/solarstar101/React-Sorting-Algorithm-Visualizer"
+        href="https://marioalbertomerino.com/"
       >
         <SocialIcons.Github />
-      </a>
-      <a
-        target="_blank"
-        rel="noopener noreferrer"
-        href="https://www.linkedin.com/in/mario-a-merino/"
-      >
-        <SocialIcons.Linkedin />
       </a>
     </>
   );
